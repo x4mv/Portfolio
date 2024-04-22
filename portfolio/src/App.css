@@ -2,6 +2,18 @@
 @tailwind components;
 @tailwind utilities;
 
+:root {
+  --txt-sm: 18px;
+}
+
+*{
+  box-sizing: border-box;
+  font-family: 'roboto', sans-serif, Helvetica;
+  font-size: var(--txt-sm);
+  color: rgb(200, 200, 200) ;
+}
+
+
 #root {
   margin: 0 auto;
   text-align: center;
@@ -10,7 +22,12 @@
 
 body {
   background-color: black;
-  color:white
 }
 
+
+.main-grid {
+  margin: 0 auto;
+  position: relative;
+  max-width: 950px;
+}
 

@@ -1,3 +1,10 @@
+
+.title-lbl{
+    font-size: 56px;
+    font-weight: 700;
+}
+
 .software-lbl {
-    color:red;
+    color: indigo;
+    font-size: 56px;
 }
