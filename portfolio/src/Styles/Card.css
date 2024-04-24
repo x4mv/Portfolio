@@ -1,0 +1,25 @@
+.project-title{
+    margin-top: 24px;
+    font-size: 40px;
+    color:#FAFAFA;
+    font-weight: 600;
+}
+
+.project-description{
+    font-size: 24px;
+    color:#FAFAFA;
+    padding: 16px;
+}
+
+.project-link{
+    border-top: 1px dotted slategrey;
+    padding: 16px;
+    margin: 8px;
+    color:#FAFAFA;
+}
+
+.project-link-text{
+    padding: 2px;
+    font-size: 20px;
+    font-weight: 400px;
+}

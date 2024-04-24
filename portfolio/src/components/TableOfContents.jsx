@@ -14,7 +14,7 @@ export const TableOfContents = () => {
             titulo={project.title}
             description={project.description}
             image={project.image}
-            tools={project.tools}
+            link={project.link}
             />
           ))
         }
