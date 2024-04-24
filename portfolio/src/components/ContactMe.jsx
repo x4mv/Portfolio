@@ -1,7 +1,7 @@
 
 export const ContactMe = () => {
   return (
-    <div className="bg-indigo-200">
+    <div className= "border border-slate-700 border-dotted" >
       ContactMe
     </div>
   )

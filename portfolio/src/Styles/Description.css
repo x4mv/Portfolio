@@ -2,9 +2,19 @@
 .title-lbl{
     font-size: 56px;
     font-weight: 700;
+    color:#EDEDED;
 }
 
 .software-lbl {
     color: indigo;
     font-size: 56px;
+}
+
+
+.description-text {
+    color : #888888;
+}
+
+.span-highlight{
+    color: #FAFAFA
 }

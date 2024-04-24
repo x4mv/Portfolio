@@ -19,15 +19,15 @@
   text-align: center;
 }
 
-
-body {
-  background-color: black;
+body{
+  background-color: rgb(6, 9, 40);
 }
+
 
 
 .main-grid {
   margin: 0 auto;
   position: relative;
-  max-width: 950px;
+  max-width: 85vw;
 }
 
